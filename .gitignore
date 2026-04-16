@@ -1,2 +1,9 @@
-./NotificationAPI_venv
+NotificationAPI_venv/
 .env
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
